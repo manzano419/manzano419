@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 My name is Anthony Manzano and I am an undergraduate computer engineering student at the University of Puerto Rico - Mayaguez.
 I am an aspiring cybersecurity analyst with big interest in the areas of reverse engineering and networks.
 
